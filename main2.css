@@ -6,6 +6,18 @@ body{
     color: green;
 }
 
-#e1{
+#e2{
     color: green;
+}
+
+button{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 25px 120px;
+  text-align: center;
+  display: inline-block;
+  font-size: 32px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
