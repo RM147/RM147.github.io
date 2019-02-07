@@ -5,6 +5,9 @@ body {
 h1 {
     background-color: whitesmoke;
     color: black;
-    text-align: center;
-    
+    text-align: center;    
+}
+
+h2 {
+    color: white;
 }
