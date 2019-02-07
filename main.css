@@ -8,11 +8,11 @@ h1 {
     text-align: center;    
 }
 
-h2, h4 {
+h2, h4,p {
     color: white;
 }
 
-.button{
+button{
     background-color: #4CAF50;
   border: none;
   color: white;
@@ -22,6 +22,11 @@ h2, h4 {
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+}
+
+#links{
+    position:absolute;
+    bottom: 45px;
 }
 
 #footer {
